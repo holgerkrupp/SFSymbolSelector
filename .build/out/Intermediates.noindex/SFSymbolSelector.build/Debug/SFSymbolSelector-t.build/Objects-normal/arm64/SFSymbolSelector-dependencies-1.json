@@ -1,0 +1,679 @@
+[
+  {
+    "isFramework" : true,
+    "moduleName" : "Accessibility",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Accessibility-2JC2L9T9F65I5.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "AppKit",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/AppKit-2TMLVEV1XESP2.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "ColorSync",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-2P6IB2LYEE0EQ.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Combine",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Combine-I24CZ3V01167.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "CoreAudio",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-1S6DZTSVXDLJQ.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreData",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreData-23RWXCKZNIA0K.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "CoreFoundation",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-1NYK7V3XZX379.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreGraphics",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-2D7Y20BKJBCHX.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "CoreImage",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-2I07V46FHPP8G.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreMedia",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-2A2JQHB3GV3GI.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreText",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-COZK171ZCHI9.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreTransferable",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreTransferable-38HXJJFYEGMQI.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CoreVideo",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-1NDMMPWPTBECX.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Darwin",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-2A8IFO6G03XOD.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "DataDetection",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-4FCO62UQEY5C.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "DeveloperToolsSupport",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-2ZIMHQ6HMB6EB.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Dispatch",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-3UZXXVMRV5OHU.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Foundation",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-1JJQROI58LG0R.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "IOKit",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-2RALN0ISLE258.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "ImageIO",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-1P0FWQAFM4B46.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Metal",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-1TQQQEHIO617R.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "OSLog",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/OSLog-8NWL39BP7Z0N.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-1NYZCN2RIK0L.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Observation",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Observation-D2U9JH71EU0X.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "QuartzCore",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-1MI34KBGQ4YQ.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Spatial",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Spatial-9BTL5UY7A9K1.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Swift",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Swift-3JUVCJH4ZO4HU.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "SwiftOnoneSupport",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftOnoneSupport-6SI150M96LVN.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "SwiftUI",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUI-22P6QCXHFT6FW.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "SwiftUICore",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUICore-3Q1L0BM2KLSZ.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Symbols",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Symbols-2UU33ALGTSZ80.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Synchronization",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Synchronization-1UQ6H83LYEQVV.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "System",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/System-3OVU2TRPRADMX.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "UniformTypeIdentifiers",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-1PL4YRYOTE78N.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "XPC",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-1BSGZBVHAKYM4.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-108AKHNQVIMMG.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Concurrency",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Concurrency-RUAL9IY11MK9.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-371ZMGVI0NR17.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-1Q1XBIIGDYGRC.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-3OW4YSC8UMTTN.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_StringProcessing",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_StringProcessing-SDD8FTKL27BC.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "os",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/os-2KZ6RVZJMUZUL.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "simd",
+    "modulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/simd-1W6XN9UON12QF.swiftmodule"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Accessibility-63MP5R14HV0CN9MCJZPC967QO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Accessibility"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/AppKit-5Z1S7HLBRB6B1CPRW5ULOKUYT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "AppKit"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/ApplicationServices-8N5X2NQWC3JCVJI36C1MPH50O.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ApplicationServices"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CFNetwork-1GD1H81YH99795CVY19LLHKZ1.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CFNetwork"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/cups.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CUPS-AHEV953MB2EO68ZKU2LLR7JQT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CUPS"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/ColorSync-8HSHAG8TYKA062IEQ78AOQ8LK.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ColorSync"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudio-DUWNVKSSOWBXMU61Z4V1ASITQ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreAudio"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreAudioTypes-AT1N2HCJ6RHJS2H772Y7UZOUN.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreAudioTypes"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreData-1BLF3M6UTSQF2YCN0AFAYN8DJ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreData"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-31WB664RFPS0J4PG58TFF2B74.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreFoundation"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreGraphics-BALAX4OWDRDASPS3KTSM786ET.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreGraphics"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreImage-5TTI1MNARTIGAGRAONLFD7FB9.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreImage"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreMedia-31VR71F5R8ODJ299VE6T5DAIC.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreMedia"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreServices-AWFE3GZ0TR3PSU1IP9QH4G1WI.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreServices"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreText-1IHKZYSDEIWUKW3XSV8J60YWC.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreText"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreTransferable-10Y8R3WBPW6LEJG6LFSUDQYTO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreTransferable"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/CoreVideo-2GR054BRNGAHFI2ABT3PX0RDR.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreVideo"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/Darwin.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-3FW7EB0CEW5KT7NYZGPPGUXGA.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Darwin"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/DataDetection-6342Y8WJO8289TI29FGPERV10.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "DataDetection"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-1RWJXD3O8G5HGJQM6MN2G5JBS.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "DeveloperToolsSupport"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/DiskArbitration-8W17W7NI2CTVA188YL2VDMDJG.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "DiskArbitration"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/dispatch.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-EATFTPKG16JX6PLEJ074IZXRT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Dispatch"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-30VP81LXTXG2SN59N6RXRBD4E.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Foundation"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-4CR6WA5TQMYXQY0METKFY45TO.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "IOKit"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/IOSurface-BHIR6GG1QDTZMMMA8AB23Q2XF.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "IOSurface"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/ImageIO-4FIPSFKK454L0LZY7HKDYB4UQ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ImageIO"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinBasic.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/MachO-BWGDXB1NKM3W4U1HAV4NMGR8Z.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "MachO"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Metal-BV4PEXUW59ILPQAT7CHQ8G9Z3.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Metal"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/OSLog-8OT1GCRVHVSVR26HK9FN7F7W5.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "OSLog"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/ObjectiveC.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-BZ063GMVKGZ2PL2I8V19IQWGE.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/OpenGL-DPFAGLM5483QNQX26BLGCWOI1.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "OpenGL"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/QuartzCore-A26YRXBUQGPY7KXW88BAQ4RN6.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "QuartzCore"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Security-8M1NMCXG25MNBPR11J4EO3WDV.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Security"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/Spatial\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Spatial-EEU5IMBJ3E87H01OLPPRQUOAK.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Spatial"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftShims-A685JLMGNG3XN4WTMXNDQLGA1.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUI-3QLC1QMKC0AZJLQPWP3ZCZGEA.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftUI"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftUICore-36GMKQJI8JRQ64VTJ5072YHZ0.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftUICore"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/Symbols-EP0QXLOXZ6NXBD3DYZ8ECIO8Y.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Symbols"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-2J3KK7SQ7U71TPBP0JOJW1URT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "UniformTypeIdentifiers"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/xpc.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-6SVU58DTOBJN22SAO4YPCKZ51.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "XPC"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-F2J9DZ5AWPLJC9ZFHB8O7KRC5.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_AvailabilityInternal"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-D4PX9XNDX804QMN6NSI0H766X.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-CBDH79B2D8VS271DRRAY5057.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_intrinsics"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-C6DHXRWFOWT0ZLUIC02YVLXQR.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_inttypes"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_limits-BNLJEQNL0CA7GT9T0SPXLKUVQ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_limits"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-261E7AGW8D0HM39ETRHDFG46V.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdarg"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-BQL1F5TDP59TO5NQ4NY12C2G5.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdatomic"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-15FUE8AR9KAOS5LNS1LKBLKV3.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdbool"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stddef-7WDFNQSQCVDKJFGF53WLGCMTW.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stddef"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdint-DV2I9N7565TGNCA4IINCEY0ZE.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdint"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-89VJVQJ9SAJEIAAEUEGCZGULD.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_tgmath"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-8JRVWQF5DQRUMQKQF5TZ47OI0.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-AFNRSA59K48RHEK3R8ZWORP6J.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation3.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-3KPWFM1P7QWW98ZKBZHEGP26T.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-F0G8K15UCL979ZCBQR4V3K4N1.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_SwiftConcurrencyShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/launch.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/launch-F208MDPLZ31KRTEWV1HL45G6R.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "launch"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/libDER\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/libDER-5NGPY2WPJ2B4AX8Y6QU57RTZJ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "libDER"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/libkern.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/libkern-A1MWQNTP6Y4Z83MXE750AHXLF.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "libkern"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/os-D1EA45M0G9CL9TPX8IN6BFQT2.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/os_object-7J20OV5Z8PVTRYPLTHOY7ZGQ8.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_object"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/os_workgroup-519ZQRJ8TKAOZKP1FH8C041OH.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_workgroup"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/ptrauth-3RE3A7GHEJMHA40Q2W4JGMCUF.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrauth"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/ptrcheck-3V4GPKD688IZA8YMDI6EWNOIY.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrcheck"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/simd\/module.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/simd-1X8FPM6D5GN7IWA87FKHBPN4C.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "simd"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/c_standard_library.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/string_h-AAU1OS4DBEIEVOUHRVRIC2X3O.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "string_h"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/holgerkrupp\/Developer\/SFSymbolSelector\/.build\/out\/SDKExplicitPrecompiledModules\/sys_types-B37T374I9ENUCY11UWOYKM37G.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "sys_types"
+  }
+]
